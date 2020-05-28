@@ -1,7 +1,7 @@
 <!--your zenodo badge here-->
 
 # wild-etal_2020_tbd
-Drought analysis publication meta-repository
+Quanifying the value of emulation for estimating drought statistics
 
 ## Abstract
 Your abstract here.
