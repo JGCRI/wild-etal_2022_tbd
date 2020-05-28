@@ -31,8 +31,10 @@ Reference for each minted data source for your output data.
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| <model 1> | <version> | <link to code repository> | <link to DOI dataset> |
-| <model 2> | <version> | <link to code repository> | <link to DOI dataset> |
+| xanthos | <version> | <link to code repository> | <link to DOI dataset> |
+| an2month | <version> | <link to code repository> | <link to DOI dataset> |
+| fldgen | <version> | <link to code repository> | <link to DOI dataset> |
+| cassandra | <version> | <link to code repository> | <link to DOI dataset> |
 
 ## Reproduce my experiement
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
