@@ -19,10 +19,10 @@ Thomas B. Wild<sup>1,2,3\*</sup>, Claudia Tebalid<sup>1</sup>, Chris Vernon<sup>
 This meta-repository creates a single point of access for interested researchers to access all of the components that were used to the published work referenced above for the purpose of reproducibility. This repository contains references to all minted data and software and houses ancillary code used to transform the source data, create figures for the publication, conduct the experiment, and execute the contributing software.
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+Summary
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+Wild, T.B., Tebaldi, C., Vernon, C., Snyder, A., Dorheim, K., Hejazi, M., Chowdhury, K. (2022). Large EMulated ENSembles (LEMENS) Enable Robust Evaluation of Climate Impacts on Extreme Drought Events Globally. TBD. DOI: https://doi.org/
 
 ## Code reference
 References for each minted software release for all code involved.  
