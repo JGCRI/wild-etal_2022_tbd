@@ -1,7 +1,7 @@
 <!--your zenodo badge here-->
 
 # wild-etal_2022_tbd
-Meta-Repository for Publication: 
+Meta-Repository for Publication: \
 **Large EMulated ENSembles (LEMENS) Enable Robust Evauation of Climate Impacts on Extreme Droughts Globally**
 
 [![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
