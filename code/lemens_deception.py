@@ -304,8 +304,8 @@ if __name__ == "__main__":
     #  a job running 100 realizations per node using 100 nodes via a SLURM_ARRAY_TASK_ID
     #  you would set 'n_realizations' to 10000 and 'batch_size' to 100 and use
     #  '--array=0-99' to spread over 100 nodes.
-    n_realizations = args[4]
-    batch_size = args[5]
+    n_realizations = int(args[4])
+    batch_size = int(args[5])
 
     # create a list of lists containing the number of iterations per node
     subset_realizations = get_realizations(n_realizations, batch_size, slurm_idx)
