@@ -11,7 +11,7 @@ Thomas B. Wild<sup>1,2,3\*</sup>, Claudia Tebalid<sup>1</sup>, Chris Vernon<sup>
 <sup>1 </sup> Joint Global Change Research Institute, Pacific Northwest National Laboratory, College Park, MD, USA \
 <sup>2 </sup> Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, MD, USA \
 <sup>3 </sup> Department of Civil and Environmental Engineering, University of Maryland, College Park, MD USA \
-<sup>4 </sup> King Abdullah Petroleum Studies and Research Center, Riyadh, Saudi Arabia
+<sup>4 </sup> King Abdullah Petroleum Studies and Research Center, Riyadh, Saudi Arabia \
 <sup>5 </sup> Department of Civil and Environmental Engineering, Tufts University
 
 \* corresponding author:  thomas.wild@pnnl.gov
