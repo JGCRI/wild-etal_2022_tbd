@@ -6,12 +6,13 @@ Meta-Repository for Publication: \
 
 [![DOI](https://zenodo.org/badge/265119113.svg)](https://zenodo.org/badge/latestdoi/265119113)
 
-Thomas B. Wild<sup>1,2,3\*</sup>, Claudia Tebalid<sup>1</sup>, Chris Vernon<sup>1</sup>, Abigail Snyder<sup>1</sup>, Kalyn Dorheim<sup>1</sup>, Mohamad Hejazi<sup>4</sup>, Kamal Chowdhury<sup>2</sup>
+Thomas B. Wild<sup>1,2,3\*</sup>, Claudia Tebalid<sup>1</sup>, Chris Vernon<sup>1</sup>, Abigail Snyder<sup>1</sup>, Kalyn Dorheim<sup>1</sup>, Mohamad Hejazi<sup>4</sup>, Kamal Chowdhury<sup>2</sup>, Jonathan Lamontagne<sup>5</sup>
 
 <sup>1 </sup> Joint Global Change Research Institute, Pacific Northwest National Laboratory, College Park, MD, USA \
 <sup>2 </sup> Earth System Science Interdisciplinary Center (ESSIC), University of Maryland, College Park, MD, USA \
 <sup>3 </sup> Department of Civil and Environmental Engineering, University of Maryland, College Park, MD USA \
 <sup>4 </sup> King Abdullah Petroleum Studies and Research Center, Riyadh, Saudi Arabia
+<sup>5 </sup> Department of Civil and Environmental Engineering, Tufts University
 
 \* corresponding author:  thomas.wild@pnnl.gov
 
